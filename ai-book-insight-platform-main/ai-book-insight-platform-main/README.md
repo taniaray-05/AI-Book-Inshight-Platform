@@ -158,4 +158,4 @@ npm start
 
 ## Author
 
-Anand Kumar Yadav
+Tania Ray
